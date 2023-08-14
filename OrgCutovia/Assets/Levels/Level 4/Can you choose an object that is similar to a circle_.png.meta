@@ -1,0 +1,285 @@
+fileFormatVersion: 2
+guid: 0e3a33a9c1554eb4093b9f8a3cbb6ca5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Can you choose an object that is similar to a circle__0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 328
+        width: 2128
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134a509ed0001674ca23c5cae9fc1c6b
+      internalID: -980619918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can you choose an object that is similar to a circle__4
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 264
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50156c25897ca24f99e348d981d1e8f
+      internalID: -1683745013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bdbe9d4f4625add4bb12893a78d33f5f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Can you choose an object that is similar to a circle__0: -980619918
+      Can you choose an object that is similar to a circle__1: 556094550
+      Can you choose an object that is similar to a circle__10: -644250534
+      Can you choose an object that is similar to a circle__11: -722184070
+      Can you choose an object that is similar to a circle__12: -1279842876
+      Can you choose an object that is similar to a circle__13: 130460285
+      Can you choose an object that is similar to a circle__14: -685058897
+      Can you choose an object that is similar to a circle__15: 66075527
+      Can you choose an object that is similar to a circle__16: -1150171113
+      Can you choose an object that is similar to a circle__17: 450032433
+      Can you choose an object that is similar to a circle__18: -1209473170
+      Can you choose an object that is similar to a circle__19: 1923922541
+      Can you choose an object that is similar to a circle__2: -1281147711
+      Can you choose an object that is similar to a circle__20: 890938719
+      Can you choose an object that is similar to a circle__21: 1017146748
+      Can you choose an object that is similar to a circle__22: 1312286039
+      Can you choose an object that is similar to a circle__23: -1978605579
+      Can you choose an object that is similar to a circle__24: 1058638990
+      Can you choose an object that is similar to a circle__25: -1221640055
+      Can you choose an object that is similar to a circle__26: -425377404
+      Can you choose an object that is similar to a circle__27: -2107518254
+      Can you choose an object that is similar to a circle__28: -1039315112
+      Can you choose an object that is similar to a circle__29: -374398162
+      Can you choose an object that is similar to a circle__3: -2003311363
+      Can you choose an object that is similar to a circle__30: 1027491061
+      Can you choose an object that is similar to a circle__31: -56492412
+      Can you choose an object that is similar to a circle__32: 1825342270
+      Can you choose an object that is similar to a circle__33: 1611399220
+      Can you choose an object that is similar to a circle__34: -1168939166
+      Can you choose an object that is similar to a circle__35: 1519721008
+      Can you choose an object that is similar to a circle__36: 1873669900
+      Can you choose an object that is similar to a circle__37: -410186854
+      Can you choose an object that is similar to a circle__38: 1880663279
+      Can you choose an object that is similar to a circle__39: 686236071
+      Can you choose an object that is similar to a circle__4: -1683745013
+      Can you choose an object that is similar to a circle__40: -1743347225
+      Can you choose an object that is similar to a circle__41: 2002132652
+      Can you choose an object that is similar to a circle__42: 46229658
+      Can you choose an object that is similar to a circle__43: -450193628
+      Can you choose an object that is similar to a circle__44: 137501379
+      Can you choose an object that is similar to a circle__45: -88071397
+      Can you choose an object that is similar to a circle__46: -102221669
+      Can you choose an object that is similar to a circle__47: 294016918
+      Can you choose an object that is similar to a circle__48: 1176082309
+      Can you choose an object that is similar to a circle__49: -275956167
+      Can you choose an object that is similar to a circle__5: 579572929
+      Can you choose an object that is similar to a circle__50: 630843687
+      Can you choose an object that is similar to a circle__51: -228391423
+      Can you choose an object that is similar to a circle__52: -1104184436
+      Can you choose an object that is similar to a circle__53: -1761299567
+      Can you choose an object that is similar to a circle__54: -870944513
+      Can you choose an object that is similar to a circle__55: 1071117549
+      Can you choose an object that is similar to a circle__56: 1245813190
+      Can you choose an object that is similar to a circle__57: -1024682954
+      Can you choose an object that is similar to a circle__58: -520454070
+      Can you choose an object that is similar to a circle__59: 1129779008
+      Can you choose an object that is similar to a circle__6: 1705139743
+      Can you choose an object that is similar to a circle__60: 1702648753
+      Can you choose an object that is similar to a circle__61: -1012246960
+      Can you choose an object that is similar to a circle__62: -625515857
+      Can you choose an object that is similar to a circle__63: -301557219
+      Can you choose an object that is similar to a circle__64: -964783283
+      Can you choose an object that is similar to a circle__65: -871648493
+      Can you choose an object that is similar to a circle__66: -421637747
+      Can you choose an object that is similar to a circle__67: -1443727029
+      Can you choose an object that is similar to a circle__68: -711590447
+      Can you choose an object that is similar to a circle__69: -1907571984
+      Can you choose an object that is similar to a circle__7: 837611449
+      Can you choose an object that is similar to a circle__70: -558008218
+      Can you choose an object that is similar to a circle__71: 1487430881
+      Can you choose an object that is similar to a circle__72: 430495594
+      Can you choose an object that is similar to a circle__73: -1017640577
+      Can you choose an object that is similar to a circle__74: -1632309209
+      Can you choose an object that is similar to a circle__75: -1536095870
+      Can you choose an object that is similar to a circle__76: 1965666215
+      Can you choose an object that is similar to a circle__77: -1743802024
+      Can you choose an object that is similar to a circle__78: -1367712892
+      Can you choose an object that is similar to a circle__79: 2030261935
+      Can you choose an object that is similar to a circle__8: 319579652
+      Can you choose an object that is similar to a circle__80: 1188100084
+      Can you choose an object that is similar to a circle__81: 1472767217
+      Can you choose an object that is similar to a circle__82: 357374061
+      Can you choose an object that is similar to a circle__83: -565784828
+      Can you choose an object that is similar to a circle__84: 521604803
+      Can you choose an object that is similar to a circle__85: -289648372
+      Can you choose an object that is similar to a circle__86: 959532857
+      Can you choose an object that is similar to a circle__87: -1079979002
+      Can you choose an object that is similar to a circle__88: 1682914657
+      Can you choose an object that is similar to a circle__89: -976920617
+      Can you choose an object that is similar to a circle__9: -2051186293
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

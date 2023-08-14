@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d67b43fe78813484886153acb4a024a1, type: 3}
+  m_Name: Level1
+  m_EditorClassIdentifier: 
+  name: Level 1
+  dialogue:
+  - 'Setting : Cuto and Ovi are journeying through a colourful, fantasy forest in
+    a video game'
+  - 'Cuto : Yes, on Earth, we get food from plants, trees, and other sources. Let''s
+    look for something to eat
+
+'
+  - 'Cuto : Look, Ovi! This is an apple tree. We can ask it for an apple'
+  - 'Tree : Oh dear, the letters of my name have fallen off. Can you help me collect
+    them and arrange them in order?
+
+'
+  - 'Cuto : Great job, Ovi! Now let''s arrange them correctly.
+
+'
+  - "Apple Tree: [cheerfully] Well done! Here's an apple for you. Enjoy!\r"
+  playerDialogue:
+  - 'Ovi : Cuto, I''m feeling hungry. Do you know where we can find some food?'
+  - 'Ovi : Okay'
+  - 'Ovi : Hey, apple tree! Can you please give me an apple?
+
+'
+  - 'Ovi : Look, Cuto! I found all the letters'
+  - rearrange the letters to spell "apple" correctly

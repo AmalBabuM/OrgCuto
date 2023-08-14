@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerEyes
+  - Villager
+  - Pin
+  - Rope
+  - Level2
+  - Tool
+  - Line
+  - Group
+  - CharacterPart
+  - Level3
+  - Peanut
+  - Hat
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Drawable
+  - PopUp
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Layer1
+    uniqueID: 489986835
+    locked: 0
+  - name: Layer 2
+    uniqueID: 1959970033
+    locked: 0
+  - name: Layer 3
+    uniqueID: 79972395
+    locked: 0
